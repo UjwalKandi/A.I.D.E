@@ -8,6 +8,7 @@ AIDE is an innovative AI-driven solution designed to revolutionize observability
 
 <!-- Image with responsive width and auto aspect ratio -->
 <img src="files/test4-1b.png" style="width:80%; height:auto;" alt="Responsive Example" />
+
 **Key Features:**  
 - **AI-Powered Log Analysis:** Automatically parses and interprets logs, detecting anomalies and offering clear diagnostic reports to expedite issue identification.  
 - **Developer Productivity Tools:** Goes beyond diagnostics by answering developers’ questions about the root cause of issues, providing guided solutions, and recommending fixes.  
