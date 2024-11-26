@@ -1,4 +1,4 @@
-### AIDE (AI-driven Intelligent Diagnostic Engine)
+### AIDE - AI Diagnostic Engine
 
 <!-- Image with responsive width and auto aspect ratio -->
 <img src="files/A.I.D.E..png" style="width:60%; height:auto;" alt="Responsive Example" />
