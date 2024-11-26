@@ -1,14 +1,13 @@
 ### AIDE (AI-driven Intelligent Diagnostic Engine)
 
 <!-- Image with responsive width and auto aspect ratio -->
-<img src="files/A.I.D.E..png" style="width:50%; height:auto;" alt="Responsive Example" />
+<img src="files/A.I.D.E..png" style="width:60%; height:auto;" alt="Responsive Example" />
 
 **Overview:**  
 AIDE is an innovative AI-driven solution designed to revolutionize observability and troubleshooting in distributed environments. It automates the initial analysis of on-device logs, providing rapid insights into potential issues and equipping support and development teams with actionable information before they intervene. 
 
 <!-- Image with responsive width and auto aspect ratio -->
 <img src="files/test4-1b.png" style="width:80%; height:auto;" alt="Responsive Example" />
-
 **Key Features:**  
 - **AI-Powered Log Analysis:** Automatically parses and interprets logs, detecting anomalies and offering clear diagnostic reports to expedite issue identification.  
 - **Developer Productivity Tools:** Goes beyond diagnostics by answering developers’ questions about the root cause of issues, providing guided solutions, and recommending fixes.  
