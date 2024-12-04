@@ -4,7 +4,7 @@
 <img src="files/A.I.D.E..png" style="width:60%; height:auto;" alt="Responsive Example" />
 
 **Overview:**  
-A.I.D.E. is an innovative AI-driven solution designed to revolutionize observability and troubleshooting in distributed environments. It automates the initial analysis of on-device logs, providing rapid insights into potential issues and equipping support and development teams with actionable information before they intervene. 
+A.I.D.E. is an AI-driven solution that revolutionizes observability and troubleshooting in distributed environments. It helps with the initial analysis of on-device logs, providing rapid insights into potential issues and equipping support and development teams with actionable information before they intervene.
 
 <!-- Image with responsive width and auto aspect ratio -->
 <img src="files/test4-1b.png" style="width:80%; height:auto;" alt="Responsive Example" />
