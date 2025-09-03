@@ -1,0 +1,5 @@
+Test
+Hi, can you check Failedrequest03072024.csv and provide a comprehensive diagnostic report on the issue that you found 
+
+Worked
+The data is from an edge device server that faced issues, check the data for abnormalities and provide a diagnostic report on your findings
